@@ -1,6 +1,10 @@
 # LyricsX
 Swift-based iTunes/Vox plug-in app to display lyrics on the desktop.
 
+## Update
+* 1/15/2017 Now support "Musixmatch" added by Xixiang Wu
+  * better adapability when searching for English Lyrics
+
 ###Features
 * Work perfectly with iTunes/Vox.
 * Auto search and download lrc to local from Internet.
